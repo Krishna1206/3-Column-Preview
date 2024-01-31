@@ -88,6 +88,7 @@ button:focus{
     .row{
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 250px;
     }
    .col_1{
        border-top-right-radius: 0;
@@ -97,10 +98,5 @@ button:focus{
        border-bottom-left-radius: 0;
        border-top-right-radius: 5px;
    }
-    .para {
-    font-family: 'Lexend Deca', sans-serif;
-margin-bottom: 14px;
-    font-size: 8px;
     
-    }
 }
