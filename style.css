@@ -97,4 +97,10 @@ button:focus{
        border-bottom-left-radius: 0;
        border-top-right-radius: 5px;
    }
+    .para {
+    font-family: 'Lexend Deca', sans-serif;
+margin-bottom: 14px;
+    font-size: 8px;
+    
+    }
 }
