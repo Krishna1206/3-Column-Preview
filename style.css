@@ -74,9 +74,9 @@ button:focus{
     color: white;
     cursor: pointer;
 }
-@media screen and (min-width:980px){
+@media screen and (min-width:1200px){
     body{
-       height: 100vh;
+       --height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center; 
